@@ -6,4 +6,4 @@ Please browse to <https://github.com/scoville/kvstreamer-releases/releases> to f
 
 Current releases:
 
-- [v1.0.0](https://github.com/scoville/kvstreamer-releases/releases/tag/v1.0.0)
+- [1.0.0](https://github.com/scoville/kvstreamer-releases/releases/tag/1.0.0)
